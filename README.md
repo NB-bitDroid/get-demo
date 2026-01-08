@@ -1,4 +1,4 @@
-###Git/Github Demo
+# Git/Github Demo
 
 ## A project to practice with Git
 
